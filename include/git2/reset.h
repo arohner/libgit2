@@ -65,7 +65,7 @@ GIT_EXTERN(int) git_reset(
 	git_repository *repo,
 	git_object *target,
 	git_reset_t reset_type,
-	git_signature *signature,
+	const git_signature *signature,
 	const char *log_message);
 
 /**
