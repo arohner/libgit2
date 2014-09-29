@@ -8,6 +8,9 @@ v0.21 + 1
 
 * Use a map for the treebuilder, making insertion O(1)
 
+* The index' tree cache is now filled upon read-tree and write-tree
+  and the cache is written to disk.
+
 * LF -> CRLF filter refuses to handle mixed-EOL files
 
 * LF -> CRLF filter now runs when * text = auto (with Git for Windows 1.9.4)
