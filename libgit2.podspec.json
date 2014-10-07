@@ -11,6 +11,7 @@
     "source": {
         "git": "https://github.com/arohner/libgit2.git",
     },
+    // ,
     // "source_files": [
     //     "deps/http-parser/*.{h,c}",
     //     "src/**/*.{h,c}",
@@ -22,7 +23,6 @@
     //     "**/src/win32/**",
     //     "**/hash_win32.*"
     // ]
-    ,
     "public_header_files": "include/**/*.h",
     "preserve_paths": "Authors",
     "libraries": "z",
