@@ -9,7 +9,7 @@
     },
     "authors": "See AUTHORS file",
     "source": {
-        "git": "https://github.com/arohner/libgit2.git",
+        "git": "https://github.com/arohner/libgit2.git"
     },
     // ,
     // "source_files": [
